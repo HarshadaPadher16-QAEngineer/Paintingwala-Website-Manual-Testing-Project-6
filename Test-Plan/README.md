@@ -1,3 +1,6 @@
+
+     - Project Name - Paintingwala Website Testing
+     
      - Introduction
            This test plan is created to check whether the Paintingwala website is working properly. It focuses on testing features like navigation, contact form, UI, mobile compatibility, and basic security.
 
